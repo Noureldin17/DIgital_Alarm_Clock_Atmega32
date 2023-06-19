@@ -12,8 +12,9 @@ This Project is a Digital Alarm Clock embedded system using Atmega32 microcontro
 ## Implementation 
 
 The time of the Alarm and Clock are both dependent on the timer of the microcontroller. The timer feature is used in CTC mode and preloaded the OCR1A register with 15625 as we have a 16MHz oscillator and the 1024 prescaler was used. The time on the LCD is updated every seconed by utilizing the interrupt feature. The whole program is running continuously and the Alarm time and Clock time are compared (if the alarm is on) to signal the Buzzer if they match. 
+
 ### Circuit Diagram
-<img width="545" alt="Screenshot 2023-06-19 203052" src="https://github.com/Noureldin17/DIgital_Alarm_Clock_Atmega32/assets/90275962/0cb26e0d-5d35-4f6b-8969-2556ddc5a889">
+<img width="545" alt="Screenshot 2023-06-19 203052" src="https://github.com/Noureldin17/DIgital_Alarm_Clock_Atmega32/assets/90275962/7d65f381-8313-4dd6-86b9-ec18ec79e76c">
 
 ### Results Video
 
