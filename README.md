@@ -18,5 +18,5 @@ The time of the Alarm and Clock are both dependent on the timer of the microcont
 
 ### Results Video
 
-https://github.com/Noureldin17/DIgital_Alarm_Clock_Atmega32/assets/90275962/1dad958a-89ea-43f9-8595-7d2f136080b6
+https://github.com/Noureldin17/DIgital_Alarm_Clock_Atmega32/assets/90275962/1350cf37-026d-4dcb-9cdd-f3d28f5e58fe
 
